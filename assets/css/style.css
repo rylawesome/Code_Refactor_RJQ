@@ -85,7 +85,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit { /* change to benefit for unity */
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,7 +101,7 @@ p {
 }
 Would keep in case of change, but uneeded as lead does same as cost/brand 
 */
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -117,7 +117,7 @@ Would keep in case of change, but uneeded as lead does same as cost/brand
 }
 Same situation as above, solved with change to all class as benefit-lead */
 
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -135,7 +135,7 @@ Same situation as above, solved with change to all class as benefit-lead */
     max-width: 150px;
 }
 Same situation as above, solved with change to all class as benefit-lead */
-.search-engine-optimization {
+.seo { /*change for unity */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -163,7 +163,7 @@ Same situation as above, solved with change to all class as benefit-lead */
 }
 Optimization, management, and marketing all doing same thing, only one is needed */
 
-.search-engine-optimization img {
+.seo img {
     max-height: 200px;
 }
 
@@ -176,7 +176,7 @@ Optimization, management, and marketing all doing same thing, only one is needed
 }
 Same as above */
 
-.search-engine-optimization h2 {
+.seo h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
